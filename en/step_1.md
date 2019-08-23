@@ -53,7 +53,8 @@ Note that if the children have completed their other projects offline then they 
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator)
++ Understand the skills which are developed towards a career involving Computing
 
 ## Challenges
 + “Add another link” - Add links to more webpages;
