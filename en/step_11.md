@@ -19,7 +19,6 @@ Make a copy of the `<iframe>` code in the Scratch Embed example and change the p
 
 ![screenshot](images/scratch-iframe.png)
 
-
-
+One you have completed the Plenary for this module, start another module and learn something completely new. 
 
 --- /challenge ---
