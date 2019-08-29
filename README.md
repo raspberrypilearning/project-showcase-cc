@@ -1,14 +1,3 @@
-# project-showcase-cc
+# project-showcase
 
-![project-showcase-cc](banner.png)
-
-Find the project online at [projects.raspberrypi.org/en/projects/project-showcase-cc](https://projects.raspberrypi.org/en/projects/project-showcase-cc)
-
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/project-showcase-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/project-showcase-cc/tree/master/en/solutions).
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## Licence
- See [LICENCE.md](LICENCE.md)
+Don't forget to update the project name in LICENSE.md
