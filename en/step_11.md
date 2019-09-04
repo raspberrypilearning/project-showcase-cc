@@ -23,7 +23,7 @@ Make a copy of the `<iframe>` code in the Scratch Embed example and change the p
 
 ![progress bar](images/h1-6.png)
 
-Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new. 
+Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new:
 
 <a href="hhttps://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
