@@ -24,3 +24,8 @@ One you have completed the Plenary for this module, start another module and lea
 --- /challenge ---
 
 ![progress bar](images/h1-6.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="hhttps://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
