@@ -25,5 +25,5 @@ Make a copy of the `<iframe>` code in the Scratch Embed example and change the p
 
 Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new:
 
-<a href="https://codeclub.org/en/projects-cc">
+<a href="https://codeclub.org/en/html1">
 <img src="images/Clickme.png">
