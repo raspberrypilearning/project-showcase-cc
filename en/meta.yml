@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Project Showcase
 theme: turquoise
@@ -15,7 +16,7 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: Adding Links to Webpages
 - title: 'Challenge: Add another link'
