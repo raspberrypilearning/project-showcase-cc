@@ -18,7 +18,6 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Adding Links to Webpages
 - title: 'Challenge: Add another link'
 - title: Link to A Trinket
@@ -28,5 +27,4 @@ steps:
 - title: Create a Table of Contents
 - title: Getting Back to the Top
 - title: 'Challenge: Improve Your Showcase'
-  completion: internal
 - title: 'Challenge: Create a New Showcase'
